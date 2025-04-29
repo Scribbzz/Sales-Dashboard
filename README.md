@@ -52,7 +52,7 @@ An exploratory data analysis project using **Python** to uncover key business in
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/sales-dashboard.git
+   git clone https://github.com/Scribbzz/sales-dashboard.git
    cd sales-dashboard
 
 2. Install dependencies
